@@ -35,27 +35,25 @@ Doyel Grid Two Column is distributed under the terms of the GNU GPL
 * Theme Screenshot image , self created
 License: CC0 1.0 Universal (CC0 1.0)
 
-1365324
-
 * Image for theme screenshot one, Copyright Pxhere
 License: CC0 1.0 Universal (CC0 1.0)
 License URL: https://pxhere.com/en/license
-Source: https://pxhere.com/en/photo/730866
+Source: https://pxhere.com/en/photo/1054672
 
 * Image for theme screenshot two, Copyright Pxhere
 License: CC0 1.0 Universal (CC0 1.0)
 License URL: https://pxhere.com/en/license
-Source: https://pxhere.com/en/photo/645545
+Source: https://pxhere.com/en/photo/730866
 
 * Image for theme screenshot three, Copyright Pxhere
 License: CC0 1.0 Universal (CC0 1.0)
 License URL: https://pxhere.com/en/license
-Source: https://pxhere.com/en/photo/1365324 
+Source: https://pxhere.com/en/photo/41236 
 
 * Image for theme screenshot four, Copyright Pxhere
 License: CC0 1.0 Universal (CC0 1.0)
 License URL: https://pxhere.com/en/license
-Source: https://pxhere.com/en/photo/645550
+Source: https://pxhere.com/en/photo/645545
 
 
 == Credits ==
